@@ -1,1 +1,0 @@
-Spinning progress deletion fixes.
