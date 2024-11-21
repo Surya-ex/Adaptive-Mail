@@ -52,3 +52,12 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 Thank you for choosing Adaptive Mail Application!
 
+
+
+Screenshots:![Screenshot 21-11-2024 11_02_50](https://github.com/user-attachments/assets/3ea7602e-a080-494e-b2f6-903226e89186)
+![Screenshot 21-11-2024 11_03_24](https://github.com/user-attachments/assets/bebf1874-7893-491f-9402-fda7365a5144)
+![Screenshot 21-11-2024 11_03_38](https://github.com/user-attachments/assets/02731119-16b6-4ce1-a8a6-868eb2f4b82e)
+![Screenshot 21-11-2024 11_03_50](https://github.com/user-attachments/assets/1d2c56e5-05be-4e20-91d2-9993ca1c6c99)
+
+
+
